@@ -1,0 +1,32 @@
+[
+  {
+    "id": "operation-log",
+    "name": "運用ログ",
+    "slug": "operation-log",
+    "description": "購入・保有・振り返りなど、年間10万円以内の実践記録。"
+  },
+  {
+    "id": "beginner-notes",
+    "name": "初心者メモ",
+    "slug": "beginner-notes",
+    "description": "暗号資産を始めたばかりの人がつまずきやすい用語や仕組みの整理。"
+  },
+  {
+    "id": "sbi-vc-trade",
+    "name": "SBI VCトレード",
+    "slug": "sbi-vc-trade",
+    "description": "SBI VCトレードの口座開設、購入前の確認、使い方に関する記録。"
+  },
+  {
+    "id": "tax-notes",
+    "name": "税務メモ",
+    "slug": "tax-notes",
+    "description": "暗号資産の税務記録、確認したい資料、日々の記録方法に関するメモ。"
+  },
+  {
+    "id": "web3-basics",
+    "name": "Web3基礎",
+    "slug": "web3-basics",
+    "description": "ウォレット、ガス代、ステーキングなどWeb3の基礎を学ぶための記録。"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "japaneseName": "ビットコイン",
+    "role": "暗号資産市場全体への参加権",
+    "annualBudget": 25000,
+    "allocationRate": 25,
+    "description": "暗号資産市場の中心にある代表的な銘柄として、少額で市場全体の動きを観察する枠。",
+    "riskLevel": "高",
+    "gasFeeLevel": "対象外",
+    "isStakingTarget": false,
+    "memo": "長期の市場サイクルを学ぶための基準銘柄。"
+  },
+  {
+    "symbol": "XRP",
+    "name": "XRP",
+    "japaneseName": "エックスアールピー",
+    "role": "SBI優待・送金テーマ",
+    "annualBudget": 25000,
+    "allocationRate": 25,
+    "description": "SBIグループとの接点や送金テーマを学ぶための枠。",
+    "riskLevel": "高",
+    "gasFeeLevel": "低",
+    "isStakingTarget": false,
+    "memo": "株主優待から始まった経緯と接続しやすい観察対象。"
+  },
+  {
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "japaneseName": "イーサリアム",
+    "role": "Web3・スマートコントラクトの基礎",
+    "annualBudget": 20000,
+    "allocationRate": 20,
+    "description": "スマートコントラクト、ウォレット、ガス代などWeb3の基礎を理解するための枠。",
+    "riskLevel": "高",
+    "gasFeeLevel": "高",
+    "isStakingTarget": true,
+    "memo": "初年度は大きなDeFi利用をせず、概念理解を優先する。"
+  },
+  {
+    "symbol": "SOL",
+    "name": "Solana",
+    "japaneseName": "ソラナ",
+    "role": "低ガス代・主要L1",
+    "annualBudget": 15000,
+    "allocationRate": 15,
+    "description": "低コストなL1チェーンとして、Ethereumとの違いを観察する枠。",
+    "riskLevel": "高",
+    "gasFeeLevel": "低",
+    "isStakingTarget": true,
+    "memo": "アプリ利用はまず情報収集に留める。"
+  },
+  {
+    "symbol": "ADA",
+    "name": "Cardano",
+    "japaneseName": "カルダノ",
+    "role": "ステーキング・アップデート枠",
+    "annualBudget": 10000,
+    "allocationRate": 10,
+    "description": "ステーキングやアップデートを追いながら、長期開発型チェーンを学ぶ枠。",
+    "riskLevel": "高",
+    "gasFeeLevel": "低",
+    "isStakingTarget": true,
+    "memo": "運用額を抑え、学習対象として観察する。"
+  },
+  {
+    "symbol": "SUI",
+    "name": "Sui",
+    "japaneseName": "スイ",
+    "role": "新興L1・観察枠",
+    "annualBudget": 5000,
+    "allocationRate": 5,
+    "description": "新興L1の成長性とリスクを観察するための小さな枠。",
+    "riskLevel": "特に高",
+    "gasFeeLevel": "低",
+    "isStakingTarget": true,
+    "memo": "初年度は少額に限定し、過熱感が強い局面では買わない。"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "crypto-learning-log",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "年間10万円以内で暗号資産を学ぶ静的ブログMVP",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

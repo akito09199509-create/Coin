@@ -1,0 +1,25 @@
+{
+  "name": "10万円で学ぶ暗号資産ログ",
+  "shortName": "10万円暗号資産ログ",
+  "description": "年間10万円以内で暗号資産を小さく運用しながら、Web3・税務・ステーキング・相場サイクルを学ぶ個人の記録です。",
+  "url": "",
+  "basePath": "",
+  "language": "ja",
+  "author": "運営者",
+  "nav": [
+    { "label": "記事", "href": "/articles/" },
+    { "label": "運用ログ", "href": "/logs/" },
+    { "label": "銘柄", "href": "/coins/" },
+    { "label": "カテゴリ", "href": "/categories/" },
+    { "label": "検索", "href": "/search/" },
+    { "label": "運用方針", "href": "/policy/" },
+    { "label": "プロフィール", "href": "/profile/" }
+  ],
+  "footerLinks": [
+    { "label": "免責事項", "href": "/disclaimer/" },
+    { "label": "広告・PRポリシー", "href": "/pr-policy/" },
+    { "label": "公式情報リンク", "href": "/resources/" },
+    { "label": "プライバシーポリシー", "href": "/privacy/" }
+  ],
+  "disclaimerShort": "このサイトは個人の学習・運用記録であり、投資助言ではありません。暗号資産は価格変動が大きく、元本割れのリスクがあります。"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nta-crypto-tax-answer",
+    "group": "税務",
+    "title": "国税庁: 暗号資産を使用することにより利益が生じた場合の課税関係",
+    "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shotoku/1524.htm",
+    "description": "暗号資産を使用して利益が生じた場合の課税関係を確認する入口。",
+    "categories": ["tax-notes"],
+    "tags": ["税務メモ", "確定申告", "記録"]
+  },
+  {
+    "id": "nta-crypto-tax-treatment",
+    "group": "税務",
+    "title": "国税庁: 暗号資産等に関する税務上の取扱い及び計算書について",
+    "url": "https://www.nta.go.jp/publication/pamph/shotoku/kakuteishinkokukankei/kasoutuka/index.htm",
+    "description": "暗号資産等の税務上の取扱いや計算書に関する資料。",
+    "categories": ["tax-notes"],
+    "tags": ["税務メモ", "確定申告", "計算書"]
+  },
+  {
+    "id": "fsa-crypto-risk",
+    "group": "リスク",
+    "title": "金融庁: 暗号資産に関する相談・注意喚起",
+    "url": "https://www.fsa.go.jp/receipt/soudansitu/advice05.html",
+    "description": "暗号資産の価格変動リスクや無登録業者への注意点を確認するためのページ。",
+    "categories": ["beginner-notes", "operation-log", "web3-basics"],
+    "tags": ["リスク管理", "初心者メモ", "セキュリティ"]
+  },
+  {
+    "id": "caa-stealth-marketing",
+    "group": "広告・PR",
+    "title": "消費者庁: ステルスマーケティングに関するQ&A",
+    "url": "https://www.caa.go.jp/policies/policy/representation/fair_labeling/faq/stealth_marketing/",
+    "description": "広告・PR・アフィリエイトを扱う前に確認したい、ステルスマーケティング規制のQ&A。",
+    "categories": [],
+    "tags": ["広告", "PR", "アフィリエイト"]
+  },
+  {
+    "id": "google-seo-starter-guide",
+    "group": "SEO",
+    "title": "Google Search Central: SEO Starter Guide",
+    "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+    "description": "検索エンジンに内容を理解してもらい、読者が見つけやすいサイトにするための公式ガイド。",
+    "categories": [],
+    "tags": ["SEO", "公開準備"]
+  }
+]

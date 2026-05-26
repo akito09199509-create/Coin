@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">10万円暗号資産ログのマーク</title>
+  <desc id="desc">小さな円と記録線を組み合わせた、少額学習ログを表すマーク。</desc>
+  <rect width="96" height="96" rx="18" fill="#0f2f3f"/>
+  <circle cx="31" cy="31" r="12" fill="#9ee6cf"/>
+  <path d="M25 61h46M25 48h34M47 31h24" fill="none" stroke="#f3d38a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M24 75h48" fill="none" stroke="#f7faf8" stroke-width="6" stroke-linecap="round"/>
+</svg>
